@@ -1,5 +1,5 @@
-Metagenomics workshop site 
+#Metagenomics workshop site 
 BetterLab
 2021-06-30
-https://github.io/Czirion/2021-06-30-BetterLab
 
+https://czirion.github.io/2021-06-30-BetterLab/
