@@ -18,7 +18,7 @@
 # When setting this field to "pilot", please uncomment the
 # pilot_lesson_site, pilot_pre_survey, and pilot_post_survey
 # lines further down this file and add the URL to the relevant lesson site.
-carpentry: "swc"
+carpentry: "pilot"
 
 # This option is currently only needed for
 # Data Carpentry and Software Carpentry workshops.
@@ -47,19 +47,19 @@ flavor: "FIXME"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "Metagenomics"
 
 #------------------------------------------------------------
 # Pilot workshop settings (only relevant for lesson pilots).
 #
 # For a lesson pilot, uncomment the line below and add the URL of the lesson site.
-# pilot_lesson_site: "put the URL of the lesson being piloted here"
+pilot_lesson_site: "https://carpentries-incubator.github.io/metagenomics/"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your pre-workshop survey
-# pilot_pre_survey: "put the URL of your pre-workshop survey here"
+#pilot_pre_survey: "put the URL of your pre-workshop survey here"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your post-workshop survey
-# pilot_post_survey: "put the URL of your post-workshop survey here"
+#pilot_post_survey: "put the URL of your post-workshop survey here"
 #
 #------------------------------------------------------------
 
