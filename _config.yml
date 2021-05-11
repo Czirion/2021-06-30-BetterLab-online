@@ -56,7 +56,7 @@ title: "Metagenomics"
 pilot_lesson_site: "https://carpentries-incubator.github.io/metagenomics/"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your pre-workshop survey
-#pilot_pre_survey: "put the URL of your pre-workshop survey here"
+pilot_pre_survey: "https://docs.google.com/forms/d/e/1FAIpQLSfqzwsIIJKz8O0fG3VHbIId8j5LoVAV6ph6QctTR56laRHPmA/viewform?usp=sf_link"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your post-workshop survey
 pilot_post_survey: "https://docs.google.com/forms/d/e/1FAIpQLScMN_CREhpqz7P8ro3GhNjKmnGZKbF3xy6QmYYujipCPgkO5g/viewform?usp=sf_link"
