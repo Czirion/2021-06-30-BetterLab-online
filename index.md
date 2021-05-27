@@ -299,7 +299,16 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
+<h2 id="Remote Servers">Remote Servers</h2>  
+<p>
+You can log-in to the remote server using the instructions 
+[here](http://www.datacarpentry.org/cloud-genomics/02-logging-onto-cloud/#logging-onto-a-cloud-instance). 
+Your instructor will supply the `ip_address` and password that you need to login.
 
+Each of you will have a different `ip_address`. This will 
+prevent us from accidentally changing each other's files as we work through the exercises. The password will be the same for everyone.  
+</p>
+  
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
