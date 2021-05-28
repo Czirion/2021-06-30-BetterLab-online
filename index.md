@@ -297,15 +297,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 {% endif %}
-
-<h2 id="Remote Servers">Remote Servers</h2>  
-<p>
-You can log-in to the remote server using 
-<a href="http://www.datacarpentry.org/cloud-genomics/02-logging-onto-cloud/#logging-onto-a-cloud-instance">this instructions</a>.<br>
-<a href="https://docs.google.com/spreadsheets/d/1rfCyXHoK16NJi1mDbtWj-p2Na7t3yd7QpTulK0MJwC8/edit?usp=sharing">Here find a blank spot and take the your username</a>.<br>
-Each of you will have a different ip_address. This will 
-prevent us from accidentally changing each other's files as we work through the exercises. Ask your instructor for the password.  
-</p>
   
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
@@ -359,6 +350,15 @@ of code below the Schedule `<h2>` header below with
 {% include custom-schedule.html %}
 
 <hr/>
+
+<h2 id="Remote Servers">Remote Servers</h2>  
+<p>
+You can log-in to the remote server using 
+<a href="http://www.datacarpentry.org/cloud-genomics/02-logging-onto-cloud/#logging-onto-a-cloud-instance">this instructions</a>.<br>
+<a href="https://docs.google.com/spreadsheets/d/1rfCyXHoK16NJi1mDbtWj-p2Na7t3yd7QpTulK0MJwC8/edit?usp=sharing">Here find a blank spot and take the your username</a>.<br>
+Each of you will have a different ip_address. This will 
+prevent us from accidentally changing each other's files as we work through the exercises. Ask your instructor for the password.  
+</p>
 
 
 {% comment %}
