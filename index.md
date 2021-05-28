@@ -345,8 +345,7 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
-<h2 id="schedule">Schedule</h2>
-
+<!-- <h2 id="schedule">Schedule</h2> -->
 {% include custom-schedule.html %}
 
 <hr/>
