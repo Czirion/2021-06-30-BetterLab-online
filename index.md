@@ -351,6 +351,7 @@ of code below the Schedule `<h2>` header below with
 
 <hr/>
 
+<br>
 <h2 id="Remote Servers">Remote Servers</h2>  
 <p>
 You can log-in to the remote server using 
