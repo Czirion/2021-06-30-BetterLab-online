@@ -41,6 +41,7 @@ Check DC curriculum
 It looks like you are setting up a website for a Data Carpentry curriculum but you haven't specified the curriculum type in the <code>_config.yml</code> file (current value in <code>_config.yml</code>: "<strong>{{ site.curriculum }}</strong>", possible values: <code>dc-ecology</code>, <code>dc-genomics</code>, <code>dc-socsci</code>, or <code>dc-geospatial</code>). After editing this file, you need to run <code>make serve</code> again to see the changes reflected.
 </div>
 {% endunless %}
+{% endif %}
 
 {% comment %}
 Check SWC curriculum
@@ -297,6 +298,15 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 {% endif %}
+
+<h2 id="Remote Servers">Remote Servers</h2>  
+<p>
+You can log-in to the remote server using 
+<a href="http://www.datacarpentry.org/cloud-genomics/02-logging-onto-cloud/#logging-onto-a-cloud-instance">this instructions</a>.<br>
+
+Each of you will have a different ip_address. This will 
+prevent us from accidentally changing each other's files as we work through the exercises. The password will be the same for everyone.  
+</p>
   
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
@@ -343,15 +353,13 @@ rows to the table if you wish to break down the schedule
 further. To use this custom schedule here, replace the block
 of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
-
-<h2 id="schedule">Schedule</h2>
-{% include custom-schedule.html %}
-
-
-<hr/>
-
 {% endcomment %}
 
+<h2 id="schedule">Schedule</h2>
+
+{% include custom-schedule.html %}
+
+<hr/>
 
 
 {% comment %}
