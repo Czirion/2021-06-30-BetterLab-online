@@ -303,8 +303,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <p>
 You can log-in to the remote server using 
 <a href="http://www.datacarpentry.org/cloud-genomics/02-logging-onto-cloud/#logging-onto-a-cloud-instance">these instructions</a>.<br>
-<a href="https://docs.google.com/spreadsheets/d/1rfCyXHoK16NJi1mDbtWj-p2Na7t3yd7QpTulK0MJwC8/edit?usp=sharing">Here</a>.<br>
-you will find an ip-adress to connect to your remote server. Each one will have a different adress to prevent us from accidentally changing each other's files as we work through the exercises. The password will be the same for everyone, ask your instructor!  
+<a href="https://docs.google.com/spreadsheets/d/1rfCyXHoK16NJi1mDbtWj-p2Na7t3yd7QpTulK0MJwC8/edit?usp=sharing">Here</a>, you will find an ip-adress to connect to your remote server. Each one will have a different adress to prevent us from accidentally changing each other's files as we work through the exercises. The password will be the same for everyone, ask your instructor!  
 </p>
   
 {% comment %}
