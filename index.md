@@ -299,6 +299,12 @@ We will use this <a href="{{https://pad.carpentries.org/2021-06-30-BetterLab}}">
 <hr/>
 {% endif %}
 
+<h2 id="Collaborative Document">Collaborative Document</h2>  
+<p>
+We will use this  
+<a href="https://pad.carpentries.org/2021-06-30-BetterLab">Collaborative Document</a>, for chatting, taking notes, and sharing URLs and bits of code.
+</p>
+
 <h2 id="Remote Servers">Remote Servers</h2>  
 <p>
 You can log-in to the remote server using 
